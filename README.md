@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @realzolo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Yoo, I'm Zolo 👋
+- 👻 I’m a college student now.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning **Java** and **Javascript**.
+- 📫 Reach at me: zolo@onezol.com
 
-<!---
-realzolo/realzolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
